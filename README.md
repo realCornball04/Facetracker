@@ -8,7 +8,7 @@
 - 🎥 Live-Camera-Stream mit Face-Detection
 - ⚡ OpenCV-basierte Gesichts-Tracking (MediaPipe optional)
 - 🖥️ Responsive Flask Web-Interface
-- 📊 Performance-Monitoring (Prometheus)
+- 📊 Performance-Monitoring (Prometheus) (work in progress)
 - 🔧 Konfigurierbar via `.env`
 - ![Demo Screenshot](demoscreen.png)
 
