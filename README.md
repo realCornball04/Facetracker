@@ -2,7 +2,7 @@
 
 **Real-time Gesichtserkennung & Tracking mit OpenCV + Flask Web-Interface**
 
-![Demo Screenshot](screenshots/demo.gif)
+
 
 ## 🚀 Features
 - 🎥 Live-Camera-Stream mit Face-Detection
@@ -22,7 +22,7 @@
 ### Raspberry Pi (empfohlen)
 ```bash
 sudo apt update && sudo apt install -y python3-opencv python3-numpy python3-pil
-git clone https://github.com/DEINUSERNAME/facetracker.git
+git clone https://github.com/realCornball04/facetracker.git
 cd facetracker
 python3 -m venv venv
 source venv/bin/activate
