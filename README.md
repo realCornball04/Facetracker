@@ -10,7 +10,7 @@
 - 🖥️ Responsive Flask Web-Interface
 - 📊 Performance-Monitoring (Prometheus)
 - 🔧 Konfigurierbar via `.env`
-- ![Demo Screenshot](Screenshot 2026-03-04 114147.png)
+- ![Demo Screenshot](./Screenshot 2026-03-04 114147.png)
 
 ## 📋 Voraussetzungen
 - Python 3.9+
